@@ -1,0 +1,11 @@
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+djangorestframework-simplejwt==5.3.0
+# Use psycopg v3 binary which provides wheels on latest Python/Windows
+psycopg[binary]==3.2.4
+python-decouple==3.8
+# Use a Windows-available prebuilt wheel version
+Pillow==11.3.0
+django-filter==23.5
+dj-database-url==2.3.0
